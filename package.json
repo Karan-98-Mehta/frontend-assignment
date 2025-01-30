@@ -12,7 +12,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://github.com/Karan-98-Mehta/frontend-assignment",
+  "homepage": "https://Karan-98-Mehta.github.io/frontend-assignment",
   "dependencies": {
     "@babel/preset-react": "^7.26.3",
     "@reduxjs/toolkit": "^2.5.1",
